@@ -1,4 +1,4 @@
-# Module 14 Challenge - belly-button-challenge
+# Module 14 Challenge: belly-button-challenge
 
 Cassio Barison Sperb
 
