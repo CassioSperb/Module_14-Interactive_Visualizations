@@ -15,7 +15,6 @@ Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
 
-bar Chart
 ![Screenshot 2024-10-05 182158](https://github.com/user-attachments/assets/2dcc9937-b961-4ae5-a973-b223d1d376a4)
 
 
@@ -31,7 +30,6 @@ Use otu_ids for the marker colors.
 
 Use otu_labels for the text values.
 
-Bubble Chart
 ![Screenshot 2024-10-05 182216](https://github.com/user-attachments/assets/625d87a5-6eea-42da-bf80-8c546c0b9ded)
 
 Display the sample's metadata, i.e., an individual's demographic information.
